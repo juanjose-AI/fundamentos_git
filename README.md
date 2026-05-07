@@ -55,3 +55,7 @@ Muestra las ramas del proyecto
 
 ### git branch -d nombre_rama
 Eliminar una rama
+
+### git merge nombre_rama
+Fusionar una rama con la rama actual
+
